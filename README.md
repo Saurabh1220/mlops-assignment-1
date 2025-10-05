@@ -46,10 +46,10 @@ Install dependencies
 Run both train.py and train2.py
 
 Print Test MSE in logs (visible in Actions tab)
-| Model                 | Test MSE |
-| --------------------- | -------- |
-| DecisionTreeRegressor | 10.4161  |
-| KernelRidge           | 18.1512  |
+Model                  Test MSE 
+---------------------  --------
+DecisionTreeRegressor  10.4161 
+KernelRidge            18.1512 
 
 Submission Checklist
 
