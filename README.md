@@ -7,7 +7,7 @@ This repo implements the assignment with:
 
 ---
 
-## 🚀 Setup
+## Setup
 
 ```bash
 # create and activate environment
